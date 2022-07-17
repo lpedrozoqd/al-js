@@ -1,4 +1,15 @@
-
 {
-    "type": "module"
+  "type": "module",
+  "name": "al-js",
+  "version": "1.0.0",
+  "description": "Auto learning JS\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Leonel Pedrozo <leonel.pedrozo.quiroz@gmail.com>",
+  "license": "MIT"
 }
