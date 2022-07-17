@@ -1,5 +1,5 @@
 {
-  "type": "module",
+  "type": "commonjs",
   "name": "al-js",
   "version": "1.0.0",
   "description": "Auto learning JS\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
@@ -11,5 +11,8 @@
     "javascript"
   ],
   "author": "Leonel Pedrozo <leonel.pedrozo.quiroz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
