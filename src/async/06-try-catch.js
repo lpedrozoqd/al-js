@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 
-const API = "https://api.escuelajs.co/api/v11";
+const API = "https://api.escuelajs.co/api/v1";
 
 async function fetchData(urlAPI) {
     try {
