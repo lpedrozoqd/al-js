@@ -1,0 +1,3 @@
+Con este comando:
+npm install -g npm@latest
+Se podrá actualizar el repositorio de dependencias
